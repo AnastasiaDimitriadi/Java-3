@@ -1,0 +1,1 @@
+INDEX VERSION 1.126+E:\Τ.Ε.Ι\3o Έτος\Προχωρημένες Εφαρμογές Προγραμματισμού\Εργασίες\Εργασία 4\.metadata\.plugins\org.eclipse.jdt.core
